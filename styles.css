@@ -14,7 +14,7 @@ body {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    height: 100vh;
+    
     margin: 1.25rem;
 }
 
@@ -61,3 +61,7 @@ img {
     margin-bottom: 1.5rem;
 }
 
+footer {
+    position: absolute;
+    bottom: 0;    
+}
